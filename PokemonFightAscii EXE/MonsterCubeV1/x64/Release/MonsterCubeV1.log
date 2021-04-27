@@ -1,0 +1,10 @@
+﻿  MonsterCubeV1.cpp
+C:\Users\Trey\source\repos\MonsterCubeV1\MonsterCubeV1\Header.h(356,6): warning C4101: 'y': unreferenced local variable
+C:\Users\Trey\source\repos\MonsterCubeV1\MonsterCubeV1\Header.h(357,6): warning C4101: 'x': unreferenced local variable
+C:\Users\Trey\source\repos\MonsterCubeV1\MonsterCubeV1\Header.h(371,2): warning C4551: function call missing argument list
+  Generating code
+  5 of 141 functions ( 3.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MonsterCubeV1.vcxproj -> C:\Users\Trey\source\repos\MonsterCubeV1\x64\Release\MonsterCubeV1.exe

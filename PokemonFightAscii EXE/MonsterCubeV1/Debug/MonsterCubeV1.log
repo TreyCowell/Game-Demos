@@ -1,0 +1,5 @@
+﻿  MonsterCubeV1.cpp
+C:\Users\Trey\source\repos\MonsterCubeV1\MonsterCubeV1\Header.h(356,6): warning C4101: 'y': unreferenced local variable
+C:\Users\Trey\source\repos\MonsterCubeV1\MonsterCubeV1\Header.h(357,6): warning C4101: 'x': unreferenced local variable
+C:\Users\Trey\source\repos\MonsterCubeV1\MonsterCubeV1\Header.h(371,2): warning C4551: function call missing argument list
+  MonsterCubeV1.vcxproj -> C:\Users\Trey\source\repos\MonsterCubeV1\Debug\MonsterCubeV1.exe
